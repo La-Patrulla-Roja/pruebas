@@ -1,5 +1,5 @@
 <template>
   <div>
-    Dasboard de pruebas
+    Dasboard de pruebas con cambio
   </div>
 </template>
