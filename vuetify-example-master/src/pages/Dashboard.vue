@@ -1,5 +1,5 @@
 <template>
   <div>
-    Dasboard
+    Dasboard de pruebas
   </div>
 </template>
